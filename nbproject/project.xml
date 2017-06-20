@@ -6,6 +6,8 @@
             <name>SistemaBancario</name>
             <source-roots>
                 <root id="src.dir"/>
+                <root id="src.files.dir" name="Arquivos"/>
+                <root id="src.res.dir" name="Recursos"/>
             </source-roots>
             <test-roots>
                 <root id="test.src.dir"/>
