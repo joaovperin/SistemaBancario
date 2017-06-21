@@ -9,7 +9,7 @@ package br.feevale.banco.core;
  *
  * @author Perin
  */
-public class Main {
+public class MainConta {
 
     /**
      * Método principal

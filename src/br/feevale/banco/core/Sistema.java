@@ -5,7 +5,7 @@
 package br.feevale.banco.core;
 
 /**
- * Descrição da classe.
+ * Interface do sistema
  */
 public interface Sistema extends Runnable {
 

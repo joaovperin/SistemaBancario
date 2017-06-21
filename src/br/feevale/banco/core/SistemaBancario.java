@@ -10,7 +10,7 @@ package br.feevale.banco.core;
 public class SistemaBancario implements Sistema {
 
     /**
-     * ...
+     * Inicializa o sistema
      */
     @Override
     public void run() {
